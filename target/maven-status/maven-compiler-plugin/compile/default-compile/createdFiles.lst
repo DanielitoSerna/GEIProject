@@ -1,0 +1,11 @@
+co\edu\polijic\geiproject\entities\OxidoNitroso.class
+co\edu\polijic\geiproject\controller\OperacionServlet.class
+co\edu\polijic\geiproject\dao\impl\OxidoNitrosoDAOImpl.class
+co\edu\polijic\geiproject\entities\Metano.class
+co\edu\polijic\geiproject\dao\IMetanoDAO.class
+co\edu\polijic\geiproject\business\MetanoBusiness.class
+co\edu\polijic\geiproject\dao\impl\MetanoDAOImpl.class
+co\edu\polijic\geiproject\dao\IOxidoNitrosoDAO.class
+co\edu\polijic\geiproject\business\OxidoNitrosoBusiness.class
+co\edu\polijic\geiproject\controller\NitrosoServlet.class
+co\edu\polijic\geiproject\controller\MetanoServlet.class
