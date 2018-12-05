@@ -65,6 +65,7 @@ public class OperacionServlet extends HttpServlet {
                 session.setAttribute("txtSm", sm);
                 session.setAttribute("txtFe", feDecimal);
                 session.setAttribute("resultado", "");
+                session.setAttribute("resultadoN", "");
                 path = "metano.jsp";
                 break;
             case "2":
